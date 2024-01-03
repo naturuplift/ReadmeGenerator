@@ -21,4 +21,18 @@ Clone this repository to your local machine using Git or download it as a ZIP fi
 ```shell
 git clone https://github.com/yourusername/readme-generator.git
 ```
+### 2. Install Required Dependencies
+
+Before using the README generator, make sure you have Node.js and npm (Node Package Manager) installed on your system.
+
+### 3. Generate a README
+
+Run the following command in your terminal to start the README generator:
+
+```shell
+npm install
+npm start
+```
+
+
 
