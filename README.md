@@ -42,8 +42,27 @@ Review the generated README and make any additional changes or edits to suit you
 ### 5. Add the README to Your Project
 
 Copy the generated README.md file and add it to your project's repository. Make sure to commit and push the changes to make the README visible to others.
-Project Structure
+
+## Project Structure
 
 Your project directory may have the following structure:
 
+```go
+readme-generator/
+    ├── index.js
+    ├── package.json
+    ├── package-lock.json
+    ├── templates/
+    │   ├── readme-template.md
+    ├── README.md
+    └── .gitignore
+```
 
+You can customize the templates and project structure as needed.
+
+## Additional Resources
+
+-    Markdown Cheatsheet: A handy reference for Markdown syntax.
+-    Node.js Documentation: Documentation for Node.js, the runtime used for this project.
+
+Feel free to explore and enhance this README Generator Project to suit your specific requirements. Creating well-documented projects is crucial for better collaboration and understanding. Happy README generation!
