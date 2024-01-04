@@ -66,3 +66,12 @@ You can customize the templates and project structure as needed.
 -    Node.js Documentation: Documentation for Node.js, the runtime used for this project.
 
 Feel free to explore and enhance this README Generator Project to suit your specific requirements. Creating well-documented projects is crucial for better collaboration and understanding. Happy README generation!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE][MIT] file for details.
+
+
+[javascript-code]: <>
+[state-flow]: <>
+[MIT]: <>
