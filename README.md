@@ -1,5 +1,18 @@
 # README Generator Project
 
+<br/>
+<p align="center">
+    <a href="https://unb.ca/cel/bootcamps/coding.html">
+        <img alt="University of New Brunswick" src="https://img.shields.io/static/v1.svg?label=bootcamp&message=UNB&color=red" /></a>
+    <a href="https://jquery.com/" >
+        <img alt="JavaScript - jQuery" src="https://img.shields.io/static/v1.svg?label=JavaScripts&message=jQuery&color=blue" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction" >
+        <img alt="JavaScript - Web APIs" src="https://img.shields.io/static/v1.svg?label=JavaScripts&message=Web APIs&color=green" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Traversing_an_HTML_table_with_JavaScript_and_DOM_Interfaces" >
+        <img alt="JavaScript - DOM" src="https://img.shields.io/static/v1.svg?label=JavaScript&message=DOM&color=violet" /></a>
+</p>
+<br/>
+
 Welcome to the README Generator Project! This project is designed to help you easily create well-structured README files for your own projects. Writing a comprehensive README is essential for providing information about your project, making it more accessible to users and contributors.
 
 ## Project Description
