@@ -80,11 +80,15 @@ You can customize the templates and project structure as needed.
 
 Feel free to explore and enhance this README Generator Project to suit your specific requirements. Creating well-documented projects is crucial for better collaboration and understanding. Happy README generation!
 
+## State Flow Diagram
+For a visual representation of the sequence of actions involved in the readme generator, refer to the [State Flow Diagram][state-flow] provided in the project documentation.
+
+Feel free to reach out, contribute, or provide feedback to make the Password Generator Project even more robust and user-friendly!
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE][MIT] file for details.
 
-
 [javascript-code]: <>
-[state-flow]: <>
-[MIT]: <>
+[state-flow]: <https://github.com/naturuplift/readme-generator/blob/main/assets/img/Readme%20Generator%20State%20Diagram%20v1.png>
+[MIT]: <https://github.com/naturuplift/readme-generator/blob/main/LICENSE>
