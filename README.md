@@ -60,7 +60,7 @@ Copy the generated README.md file and add it to your project's repository. Make 
 
 Your project directory may have the following structure:
 
-```go
+```javascript
 readme-generator/
     ├── index.js
     ├── package.json
