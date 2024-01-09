@@ -1,4 +1,4 @@
-# README Generator Project
+# Professional README Generator
 
 <br/>
 <p align="center">
