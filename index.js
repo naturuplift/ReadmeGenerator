@@ -1,8 +1,8 @@
-// TODO: Include packages needed for this application
+// Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
 
-// TODO: Create an array of questions for user input
+// Create an array of questions for user input
 function generateREADME(answers) {
     // Define the README content template
     const questions = `
@@ -43,7 +43,7 @@ function generateREADME(answers) {
     return questions;
 }
 
-console.log(questions);
+console.log(questions); // TODO: delete when tested
 
 // TODO: Create a function to write README file
 
