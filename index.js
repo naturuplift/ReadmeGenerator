@@ -14,9 +14,9 @@ function generateREADME(answers) {
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
+  - [License](#license)
   - [Questions](#questions)
   
   
@@ -24,13 +24,7 @@ function generateREADME(answers) {
   ${answers.installation}
   
   ## Usage
-  ${answers.usage}
-  
-  ## License
-  ![License Badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
-  
-  This project is licensed under the ${answers.license} license.
-  
+  ${answers.usage}  
 
   ## Contributing
   ${answers.contributing}
@@ -38,6 +32,11 @@ function generateREADME(answers) {
 
   ## Tests
   ${answers.tests}
+
+  ## License
+  ![License Badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
+  
+  This project is licensed under the ${answers.license} license.
   
   ## Questions
   For questions about this project, please contact [${answers.username}](https://github.com/${answers.username}) at ${answers.email}.
