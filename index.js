@@ -19,6 +19,7 @@ function generateREADME(answers) {
   - [Tests](#tests)
   - [Questions](#questions)
   
+  
   ## Installation
   ${answers.installation}
   
@@ -30,7 +31,7 @@ function generateREADME(answers) {
   
   This project is licensed under the ${answers.license} license.
   
-  
+
   ## Contributing
   ${answers.contributing}
   
