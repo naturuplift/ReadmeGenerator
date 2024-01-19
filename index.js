@@ -30,9 +30,11 @@ function generateREADME(answers) {
   
   This project is licensed under the ${answers.license} license.
   
+  
   ## Contributing
   ${answers.contributing}
   
+
   ## Tests
   ${answers.tests}
   
