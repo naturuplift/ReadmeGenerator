@@ -1,6 +1,7 @@
 // Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
+const generateMarkdown = require('./generateMarkdown');
 
 // Create an array of questions for user input
 function generateREADME(answers) {
@@ -18,8 +19,7 @@ function generateREADME(answers) {
   - [Tests](#tests)
   - [License](#license)
   - [Questions](#questions)
-  
-  
+ 
   ## Installation
   ${answers.installation}
   
