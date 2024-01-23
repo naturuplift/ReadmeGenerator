@@ -4,12 +4,12 @@
 <p align="center">
     <a href="https://unb.ca/cel/bootcamps/coding.html">
         <img alt="University of New Brunswick" src="https://img.shields.io/static/v1.svg?label=bootcamp&message=UNB&color=red" /></a>
-    <a href="https://jquery.com/" >
-        <img alt="JavaScript - jQuery" src="https://img.shields.io/static/v1.svg?label=JavaScripts&message=jQuery&color=blue" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction" >
-        <img alt="JavaScript - Web APIs" src="https://img.shields.io/static/v1.svg?label=JavaScripts&message=Web APIs&color=green" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Traversing_an_HTML_table_with_JavaScript_and_DOM_Interfaces" >
-        <img alt="JavaScript - DOM" src="https://img.shields.io/static/v1.svg?label=JavaScript&message=DOM&color=violet" /></a>
+        <a href="" >
+        <img alt="JavaScript - " src="https://img.shields.io/static/v1.svg?label=JavaScript&message=ES6&color=violet" /></a>
+    <a href="" >
+        <img alt="JavaScript - " src="https://img.shields.io/static/v1.svg?label=Node.js&message=Server&color=green" /></a>
+    <a href="" >
+        <img alt="JavaScript - " src="https://img.shields.io/static/v1.svg?label=npm&message=packages&color=red" /></a>
 </p>
 <br/>
 
