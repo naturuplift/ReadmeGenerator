@@ -9,7 +9,7 @@
     <a href="" >
         <img alt="JavaScript - " src="https://img.shields.io/static/v1.svg?label=Node.js&message=Server&color=green" /></a>
     <a href="" >
-        <img alt="JavaScript - " src="https://img.shields.io/static/v1.svg?label=npm&message=packages&color=red" /></a>
+        <img alt="JavaScript - " src="https://img.shields.io/static/v1.svg?label=npm&message=packages&color=blue" /></a>
 </p>
 <br/>
 
