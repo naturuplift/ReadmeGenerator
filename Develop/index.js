@@ -1,4 +1,7 @@
 // Include packages needed for this application
+import inquirer from "inquirer";
+
+
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
