@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "This is a tool that simplifies the process of creating well-structured README files for your software projects. With easy-to-follow prompts, it generates a markdown README template that you can customize to provide essential information about your project, making it more accessible to users and contributors. Save time and ensure clear documentation ",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.12"
+    "inquirer": "^8.2.4"
   }
 }

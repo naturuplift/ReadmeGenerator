@@ -1,7 +1,4 @@
 // Include packages needed for this application
-import inquirer from "inquirer";
-import fs from "fs";
-
 const fs = require('fs');
 const inquirer = require('inquirer');
 
@@ -48,8 +45,6 @@ function generateREADME(answers) {
 
     return questions;
 }
-
-console.log(questions); // TODO: delete when tested
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
