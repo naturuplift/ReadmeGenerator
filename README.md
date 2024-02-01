@@ -90,5 +90,5 @@ Feel free to reach out, contribute, or provide feedback to make the Password Gen
 This project is licensed under the MIT License. See the [LICENSE][MIT] file for details.
 
 [javascript-code]: <>
-[state-flow]: <https://github.com/naturuplift/readme-generator/blob/main/assets/img/Readme%20Generator%20State%20Diagram%20v1.png>
+[state-flow]: <https://github.com/naturuplift/readme-generator/blob/main/Develop/assets/img/Readme%20Generator%20State%20Diagram%20v1.png>
 [MIT]: <https://github.com/naturuplift/readme-generator/blob/main/LICENSE>
