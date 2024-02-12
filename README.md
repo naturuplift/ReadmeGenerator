@@ -2,14 +2,18 @@
 
 <br/>
 <p align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
+        <img alt="JavaScript - ES6" src="https://img.shields.io/static/v1.svg?label=JavaScript&message=ES6&color=violet" /></a>
+    <a href="https://nodejs.org/" >
+        <img alt="Node.js - A JavaScript runtime built on Chrome's V8 JavaScript engine, used for building fast and scalable network applications" src="https://img.shields.io/static/v1.svg?label=Node.js&message=JavaScript runtime&color=green" /></a>
+    <a href="https://www.npmjs.com/package/inquirer" >
+        <img alt="Inquirer.js" src="https://img.shields.io/static/v1.svg?label=npm&message=inquirer&color=blue" /></a>
+    <a href="https://github.com/">
+        <img alt="GitHub (for repository hosting and project management) - Provides hosting for software development and version control using Git" src="https://img.shields.io/static/v1.svg?label=GitHub&message=hosting&color=black" /></a>
+    <a href="https://git-scm.com/">
+        <img alt="Git (for version control) - A free and open-source distributed version control system" src="https://img.shields.io/static/v1.svg?label=Git&message=version control&color=lightgray" /></a>
     <a href="https://unb.ca/cel/bootcamps/coding.html">
         <img alt="University of New Brunswick" src="https://img.shields.io/static/v1.svg?label=bootcamp&message=UNB&color=red" /></a>
-        <a href="" >
-        <img alt="JavaScript - " src="https://img.shields.io/static/v1.svg?label=JavaScript&message=ES6&color=violet" /></a>
-    <a href="" >
-        <img alt="JavaScript - " src="https://img.shields.io/static/v1.svg?label=Node.js&message=Server&color=green" /></a>
-    <a href="" >
-        <img alt="JavaScript - " src="https://img.shields.io/static/v1.svg?label=npm&message=packages&color=blue" /></a>
 </p>
 <br/>
 
