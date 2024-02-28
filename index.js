@@ -60,7 +60,7 @@ const questions = [
 function writeToFile(data) {
 
   // confire file path variables
-  const directory = "C:\\Users\\nature\\CodingBootCamp\\readme-generator\\Develop";
+  const directory = "C:\\Users\\nature\\CodingBootCamp\\readme-generator\\generatedREADME";
   const filename = "README.md";
 
   // Use path.join() to concatenate the directory and filename
