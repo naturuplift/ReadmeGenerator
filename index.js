@@ -1,6 +1,7 @@
 // Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
+const path = require('path');
 
 // includes generateMarkdown.js file
 const generateMarkdown = require('./utils/generateMarkdown');
@@ -31,7 +32,7 @@ const questions = [
     type: 'list',
     name: 'license',
     message: 'Choose a license:',
-    choices: [ 'No', 'MIT', 'GNU GPLv3', 'Apache 2.0', 'ISC', 'Other'],
+    choices: [ 'None', 'MIT', 'GNU GPLv3', 'Apache 2.0'],
   },
   {
     type: 'input',
@@ -57,22 +58,43 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(data) {
-  generateMarkdown(data);
+
+  // confire file path variables
+  const directory = "C:\\Users\\nature\\CodingBootCamp\\readme-generator\\generatedREADME";
+  const filename = "README.md";
+
+  // Use path.join() to concatenate the directory and filename
+  const filePath = path.join(directory, filename);
+
+  // console.log("File Path: ", filePath) // TODO: comment after testing
+  // console.log("Generated Data: ", data) // TODO: comment after testing
+
+  // Use fs.writeFile to write the README file
+  fs.writeFile(filePath, data, (err) => {
+    if (err) {
+      console.error('Error writing README file:', err);
+    } else {
+      console.log('README file written successfully!');
+    }
+  });
 }
 
 // TODO: Create a function to initialize app
 function init() {
-  console.log("I am code before the ASYNC function") // TODO: comment after testing
+  // console.log("I am code before the ASYNC function") // TODO: comment after testing
   inquirer
     /* Pass your questions in here */
     .prompt(questions)
     // Use user feedback to writeToFile
     .then((data) => {
-      console.log("I am code INSIDE of the ASYNC function") // TODO: comment after testing
-      console.log("User Data: ", data); // TODO: comment after testing
+      // console.log("I am code INSIDE of the ASYNC function") // TODO: comment after testing
+      // console.log("User Data: ", data); // TODO: comment after testing
       const readMe = generateMarkdown(data);
-      console.log("Generated Data: ", readMe) // TODO: comment after testing
-      writeToFile(data);
+
+      // confirm if markdown returns with correct format
+      console.log(readMe); // TODO: comment after testing
+
+      writeToFile(readMe);
     })
     .catch((error) => {
       if (error.isTtyError) {
