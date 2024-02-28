@@ -19,13 +19,22 @@
 
 Welcome to the README Generator Project! This project is designed to help you easily create well-structured README files for your own projects. Writing a comprehensive README is essential for providing information about your project, making it more accessible to users and contributors.
 
-## Project Description
+## Description
 
 This README Generator Project aims to simplify the process of creating README files for your projects. You can use this project to:
 
 - Automatically generate README templates with sections for project description, installation, usage, contribution guidelines, and more.
 - Customize and fill in the content of each section based on your project's details.
 - Export the generated README as a markdown (.md) file for easy integration into your project repositories.
+
+## Table of Contents
+- [Demo Video](#demo-video)
+- [Getting Started](#getting-started)
+- [Structure](#structure)
+- [Starter Code](#starter-code)
+- [Additional Resources](#additional-resources)
+- [State Flow Diagram](#state-flow-diagram)
+- [License](#license)
 
 ## Demo Video
 [Open Demo video of README Generator][readme-generator]
@@ -51,21 +60,31 @@ Run the following command in your terminal to start the README generator:
 
 ```shell
 npm install
-npm start
+node index,js
 ```
+
+Sample terminal prompting:
+![readme-generator generation](https://github.com/naturuplift/readme-generator/assets/23546356/936fa374-a841-47fa-80d1-53e7e6e90014)
+
 The generator will prompt you to answer questions about your project. Based on your responses, it will create a README.md file with the provided information.
+
+Markdown created from the prompts:
+![readme-generator markdown](https://github.com/naturuplift/readme-generator/assets/23546356/f53b4a4b-ac8d-4b46-be0c-c53cfbfee7dc)
 
 ### 4. Customize the Generated README
 
 Review the generated README and make any additional changes or edits to suit your project's needs. You can add more sections, images, or formatting as desired.
+You can preview the generated README file [online][mark-preview] or in [Visual Studio Code][VSC-markdown]
+
+Below online preview
 
 ### 5. Add the README to Your Project
 
 Copy the generated README.md file and add it to your project's repository. Make sure to commit and push the changes to make the README visible to others.
 
-## Project Structure
+## Structure
 
-Your project directory may have the following structure:
+Your directory may have the following structure:
 
 ```javascript
 readme-generator/
@@ -103,6 +122,9 @@ Feel free to reach out, contribute, or provide feedback to make the Password Gen
 This project is licensed under the MIT License. See the [LICENSE][MIT] file for details.
 
 [readme-generator]: <https://drive.google.com/file/d/1Ipq_Ebyq0QQEx_n9BKFClSTudtYsDKlo/view>
+[mark-preview]: <https://markdownlivepreview.com/>
+[readme-generator]: <https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced>
+
 [starter-code]: <https://github.com/coding-boot-camp/potential-enigma>
 [state-flow]: <https://github.com/naturuplift/readme-generator/blob/main/assets/img/Readme%20Generator%20State%20Diagram%20v1.png>
 [MIT]: <https://github.com/naturuplift/readme-generator/blob/main/LICENSE>
