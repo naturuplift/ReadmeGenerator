@@ -76,7 +76,8 @@ Markdown created from the prompts:
 Review the generated README and make any additional changes or edits to suit your project's needs. You can add more sections, images, or formatting as desired.
 You can preview the generated README file [online][mark-preview] or in [Visual Studio Code][VSC-markdown]
 
-Below online preview
+Below online preview for markdown generated:
+![readme-generator markdown-preview](https://github.com/naturuplift/readme-generator/assets/23546356/413bab63-80bc-43bb-82d5-76c2ab033dad)
 
 ### 5. Add the README to Your Project
 
@@ -107,8 +108,8 @@ To start with this project we used the following [Starter Code][starter-code]
 
 ## Additional Resources
 
--    Markdown Cheatsheet: A handy reference for Markdown syntax.
--    Node.js Documentation: Documentation for Node.js, the runtime used for this project.
+-    [Markdown Cheatsheet][mark-sheat]: A handy reference for Markdown syntax.
+-    [Node.js Documentation][node-doc]: Documentation for Node.js, the runtime used for this project.
 
 Feel free to explore and enhance this README Generator Project to suit your specific requirements. Creating well-documented projects is crucial for better collaboration and understanding. Happy README generation!
 
@@ -124,7 +125,8 @@ This project is licensed under the MIT License. See the [LICENSE][MIT] file for 
 [readme-generator]: <https://drive.google.com/file/d/1Ipq_Ebyq0QQEx_n9BKFClSTudtYsDKlo/view>
 [mark-preview]: <https://markdownlivepreview.com/>
 [readme-generator]: <https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced>
-
 [starter-code]: <https://github.com/coding-boot-camp/potential-enigma>
+[mark-sheat]: <https://www.markdownguide.org/cheat-sheet/>
+[node-doc]: <https://nodejs.org/en/learn/getting-started/introduction-to-nodejs>
 [state-flow]: <https://github.com/naturuplift/readme-generator/blob/main/assets/img/Readme%20Generator%20State%20Diagram%20v1.png>
 [MIT]: <https://github.com/naturuplift/readme-generator/blob/main/LICENSE>
