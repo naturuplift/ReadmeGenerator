@@ -31,6 +31,7 @@ This README Generator Project aims to simplify the process of creating README fi
 - [Demo Video](#demo-video)
 - [Getting Started](#getting-started)
 - [Structure](#structure)
+- [Contributing](#contributing)
 - [Starter Code](#starter-code)
 - [Additional Resources](#additional-resources)
 - [State Flow Diagram](#state-flow-diagram)
@@ -82,6 +83,9 @@ Below online preview for markdown generated:
 ### 5. Add the README to Your Project
 
 Copy the generated README.md file and add it to your project's repository. Make sure to commit and push the changes to make the README visible to others.
+
+## Contributing
+Contributions to the project are welcome: Fork the project. Create your feature branch (git checkout -b feature/AmazingFeature). Commit your changes (git commit -m 'Add some AmazingFeature'). Push to the branch (git push origin feature/AmazingFeature). Open a pull request.
 
 ## Structure
 
