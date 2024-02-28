@@ -68,6 +68,8 @@ readme-generator/
     ├── templates/
     │   ├── readme-template.md
     ├── README.md
+    ├── generatedREADME/
+    │   ├── README.md
     └── .gitignore
 ```
 
