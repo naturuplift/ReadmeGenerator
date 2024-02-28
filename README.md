@@ -28,7 +28,7 @@ This README Generator Project aims to simplify the process of creating README fi
 - Export the generated README as a markdown (.md) file for easy integration into your project repositories.
 
 ## Demo Video
-https://drive.google.com/file/d/1Ipq_Ebyq0QQEx_n9BKFClSTudtYsDKlo/view
+[Open Demo video of README Generator][readme-generator]
 
 ## Getting Started
 
@@ -102,7 +102,7 @@ Feel free to reach out, contribute, or provide feedback to make the Password Gen
 
 This project is licensed under the MIT License. See the [LICENSE][MIT] file for details.
 
-[javascript-code]: <>
+[readme-generator]: <https://drive.google.com/file/d/1Ipq_Ebyq0QQEx_n9BKFClSTudtYsDKlo/view>
 [starter-code]: <https://github.com/coding-boot-camp/potential-enigma>
 [state-flow]: <https://github.com/naturuplift/readme-generator/blob/main/assets/img/Readme%20Generator%20State%20Diagram%20v1.png>
 [MIT]: <https://github.com/naturuplift/readme-generator/blob/main/LICENSE>
