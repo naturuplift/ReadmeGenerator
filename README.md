@@ -77,7 +77,7 @@ You can customize the templates and project structure as needed.
 
 ## Starter Code
 
-To start the project, we used [Starter Code][starter-code]
+To start with this project we used the following [Starter Code][starter-code]
 
 ## Additional Resources
 
