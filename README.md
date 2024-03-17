@@ -49,7 +49,7 @@ To get started with the README Generator Project, follow these steps:
 Clone this repository to your local machine using Git or download it as a ZIP file and extract its contents.
 
 ```shell
-git clone https://github.com/yourusername/ReadmeGenerator.git
+git clone https://github.com/naturuplift/ReadmeGenerator.git
 ```
 ### 2. Install Required Dependencies
 
