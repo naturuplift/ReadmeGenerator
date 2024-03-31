@@ -128,6 +128,7 @@ This project is licensed under the MIT License. See the [LICENSE][MIT] file for 
 
 [readme-generator]: <https://drive.google.com/file/d/1Ipq_Ebyq0QQEx_n9BKFClSTudtYsDKlo/view>
 [mark-preview]: <https://markdownlivepreview.com/>
+[VSC-markdown]: <https://code.visualstudio.com/Docs/languages/markdown>
 [readme-generator]: <https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced>
 [starter-code]: <https://github.com/coding-boot-camp/potential-enigma>
 [mark-sheat]: <https://www.markdownguide.org/cheat-sheet/>
